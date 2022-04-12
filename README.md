@@ -1,1 +1,4 @@
 # passgen
+requirement
+==>colorama
+==>random
